@@ -1,0 +1,21 @@
+WEEK - 1
+Skill: Data Structures and Algorithms
+Exercise 2: Financial Forecasting (Recursive)
+
+RECURSIVE
+
+Time Complexity: O(n) - 1 recursive call for each year.
+
+Space Complexity: O(n) – due to call stack memory.
+
+
+OPTIMIZATION TECHNIQUES:
+1. ITERATION
+
+Time Complexity: O(n) - 1 iteration for each year.
+
+Space Complexity: O(1) – Constant space.
+
+2. DP / Closed-form Formulation
+
+Time and Space Complexity: O(1)

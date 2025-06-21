@@ -1,0 +1,31 @@
+WEEK - 1
+Skill: Data Structures and Algorithms
+Exercise 2: E-Commerce Platform Search Functions (Linear & Binary Search)
+
+
+1. BINARY SEARCH
+Condition: Array must be sorted (sorting cost = O(n log n) if not pre-sorted).
+
+Time Complexity:
+Best Case: O(1) - Target found at the mid-point.
+Average Case: O(log n) - Each step eliminates half the search space.
+Worst Case: O(log n) - Target not found after all divisions.
+
+Space Complexity:
+Iterative: O(1)
+Recursive: O(log n) – due to recursive stack frames.
+
+2. LINEAR SEARCH
+Condition: No sorting required.
+
+Time Complexity:
+Best Case: O(1) - Target found at the first index.
+Average Case: O(n) - Target in the middle (on average).
+Worst Case: O(n) - Target at the end or not present.
+
+Space Complexity: O(1) - In-place search so, no additional memory.
+
+
+BEST OPTION:
+E-Commerce Platform deals with large datasets and demands quicker response times.
+Since Binary Search has logarithmic time complexity, it ensures faster search operations.
