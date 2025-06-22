@@ -1,0 +1,13 @@
+1. Bubble Sort	
+Time Complexity: O(n²)	
+Space Complexity: O(1)	
+Simple but inefficient for large n.
+
+2. Quick Sort	
+Time Complexity: 
+	Average: O(n log n), 
+	Worst: O(n²) worst	
+Space Complexity: O(log n)	
+Fast and preferred in practice.
+
+Since Quick sort is faster, it is usually preferred over Bubble sort.

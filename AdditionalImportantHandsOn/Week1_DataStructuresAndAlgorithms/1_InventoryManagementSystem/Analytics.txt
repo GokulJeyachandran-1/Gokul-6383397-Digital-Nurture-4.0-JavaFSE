@@ -1,0 +1,10 @@
+Operations and their Time Complexity	
+
+Add Product	- O(1) HashMap put() - constant time on average
+Update Product - O(1)	get() + set() - constant time
+Delete Product - O(1)	remove() - constant time
+Display All - O(n)	Iterates through all (n) products
+
+Optimization tip:
+1. HashMap - for faster look ups
+2. TreeMap - for sorted view
