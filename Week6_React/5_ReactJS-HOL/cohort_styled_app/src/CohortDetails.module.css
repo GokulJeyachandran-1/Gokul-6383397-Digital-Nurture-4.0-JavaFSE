@@ -1,0 +1,28 @@
+.box {
+  width: 250px;
+  padding: 16px;
+  margin: 12px;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+dt {
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 4px;
+}
